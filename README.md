@@ -1,2 +1,0 @@
-# myjava
-my java collection
